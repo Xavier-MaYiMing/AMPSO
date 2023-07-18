@@ -62,9 +62,9 @@ if __name__ == '__main__':
 
 
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/AMPSO/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/AMPSO/blob/main/Pareto%20front.png)
 
-![Pareto set](/Users/xavier/Desktop/Xavier Ma/个人算法主页/AMPSO/Pareto set.png)
+![](https://github.com/Xavier-MaYiMing/AMPSO/blob/main/Pareto%20set.png)
 
 ```python
 Iteration 10 completed.
